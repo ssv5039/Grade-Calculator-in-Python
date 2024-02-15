@@ -1,3 +1,5 @@
+# Grade Calculator
+
 Created a software that calculated user entered Test Scores, which would then output the avergae and grade point to help users track their progress on schooling/test scores.
 This was implemented using Classes, Loops, If Statements, and the Round feature.
 
